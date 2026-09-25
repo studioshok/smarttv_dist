@@ -3,6 +3,17 @@
   "version": "1.0.0",
   "parameter": "menu:data",
   "data": {
-    "action": "link:https://studioshok.github.io/smarttv_dist/index.html"
+    "type": "pages",
+    "pages": [
+      {
+        "items": [
+          {
+            "type": "compact",
+            "title": "Запустить Плеер",
+            "action": "link:https://studioshok.github.io/smarttv_dist/index.html"
+          }
+        ]
+      }
+    ]
   }
 }
