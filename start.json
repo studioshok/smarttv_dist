@@ -1,5 +1,5 @@
 {
   "name": "AraxTV",
   "version": "1.0.0",
-  "parameter": "https://studioshok.github.io/smarttv_dist/index.html"
+  "parameter": "launch:[https://studioshok.github.io/smarttv_dist/index.html]"
 }
