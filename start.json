@@ -1,14 +1,5 @@
 {
-  "name": "Моё ТВ Приложение",
+  "name": "AraxTV",
   "version": "1.0.0",
-  "parameter": {
-    "menu": [
-      {
-        "title": "Запустить приложение",
-        "type": "link",
-        "icon": "http://smarttv.arax.md/player/logo.png",
-        "url": "https://smarttv.arax.md/player/"
-      }
-    ]
-  }
+  "parameter": "html5:index.html"
 }
