@@ -1,5 +1,5 @@
 {
   "name": "AraxTV",
   "version": "1.0.0",
-  "parameter": "html5:index.html"
+  "parameter": "launch:index.html"
 }
