@@ -1,0 +1,6 @@
+{
+  "name": "Моё ТВ Приложение",
+  "version": "1.0.0",
+  "action": "redirect",
+  "data": "https://smarttv.arax.md/player/index.html"
+}

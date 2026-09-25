@@ -1,0 +1,6 @@
+{
+  "name": "Моё ТВ Приложение",
+  "version": "1.0.0",
+  "parameter": "menu:http://smarttv.arax.md/player/index.html"
+}
+

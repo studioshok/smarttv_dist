@@ -1,0 +1,12 @@
+{
+  "action": "video:menu",
+  "menu": [
+    {
+      "title": "Открыть плеер Arax",
+      "type": "link",
+      "icon": "http://smarttv.arax.md/player/logo.png",
+      "data": "http://smarttv.arax.md/player/index.html"
+    }
+  ]
+}
+
