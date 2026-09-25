@@ -1,5 +1,8 @@
 {
-  "name": "AraxTV",
+  "name": "Smart TV App",
   "version": "1.0.0",
-  "parameter": "launch:https://studioshok.github.io/smarttv_dist/index.html"
+  "parameter": "menu:data",
+  "data": {
+    "action": "link:https://studioshok.github.io/smarttv_dist/index.html"
+  }
 }
