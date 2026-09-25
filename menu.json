@@ -1,0 +1,15 @@
+{
+  "type": "pages",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "compact",
+          "layout": "0,0,12,6",
+          "title": "AraxTV",
+          "action": "link:https://studioshok.github.io/smarttv_dist/index.html"
+        }
+      ]
+    }
+  ]
+}
